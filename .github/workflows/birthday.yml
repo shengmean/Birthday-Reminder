@@ -30,4 +30,3 @@ jobs:
       CORPID: ${{ secrets.CORPID }}
       SECRET: ${{ secrets.SECRET }}
       AGENTID: ${{ secrets.AGENTID }}
-
